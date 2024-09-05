@@ -3,6 +3,7 @@ here we will define all the functions and handle each process
 """
 
 import  re
+import logging
 
 
 def generate_email(name):
@@ -14,19 +15,22 @@ def generate_email(name):
         first_name = first_name.split()[0].strip()
         last_name = last_name.strip()
 
+        #remove any special characters from the last name
+        last_name_clean=re.sub(r"[^a-zA-Z]","", last_name.lower())
+
+
         # Generate the email using the first letter of the first name and the last name
-        email = f"{first_name[0].lower()}{last_name.lower()}@gmail.com"
+        email = f"{first_name[0].lower()}{last_name_clean}@gmail.com"
 
         return email
 
     except Exception as e:
         # Return None if the name is not formatted correctly
-        return None
 
+      logging.error(f"Error processing name {name}")
+    return None
 
-if __name__ == "__main__":
-    name = input("Enter your name in 'Last Name ,First Name ,Middle Name(s) 'format:")
-    email=generate_email(name)
-    print(f"Your email is {email}")
-
-
+def log_student_count(male_count, female_count):
+   #logs the count of both male and female students
+    logging.info(f"Number of male students: {male_count}")
+    logging.info(f"Number of female students: {female_count}")
