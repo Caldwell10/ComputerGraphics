@@ -1,0 +1,44 @@
+2024-09-06 09:23:47,088 - INFO - Processing file_A
+2024-09-06 09:23:47,090 - WARNING - Name contains special characters: Akong'o, Shanelle Hilda Anyango
+2024-09-06 09:23:47,090 - WARNING - Name contains special characters: Ang'edu, Jude Ocomil
+2024-09-06 09:23:47,091 - WARNING - Name contains special characters: Ng'ang'a, Ian Mutuge
+2024-09-06 09:23:47,091 - WARNING - Name contains special characters: Orony, Charis Ng'wono
+2024-09-06 09:23:47,092 - WARNING - Name contains special characters: Waweru, Monika Ng'endo
+2024-09-06 09:23:47,092 - INFO - Total students with special characters: 5
+2024-09-06 09:23:47,093 - WARNING - Name contains special characters: Akong'o, Shanelle Hilda Anyango
+2024-09-06 09:23:47,093 - WARNING - Name contains special characters: Ang'edu, Jude Ocomil
+2024-09-06 09:23:47,093 - WARNING - Name contains special characters: Ng'ang'a, Ian Mutuge
+2024-09-06 09:23:47,093 - WARNING - Name contains special characters: Orony, Charis Ng'wono
+2024-09-06 09:23:47,093 - WARNING - Name contains special characters: Waweru, Monika Ng'endo
+2024-09-06 09:23:47,094 - INFO - Finished processing file_A
+2024-09-06 09:23:47,094 - INFO - Processing file_B
+2024-09-06 09:23:47,095 - WARNING - Name contains special characters: Mbugua, Nathan Ng'ethe
+2024-09-06 09:23:47,096 - WARNING - Name contains special characters: Nyang'or, Olive Menorah
+2024-09-06 09:23:47,096 - INFO - Total students with special characters: 2
+2024-09-06 09:23:47,097 - WARNING - Name contains special characters: Mbugua, Nathan Ng'ethe
+2024-09-06 09:23:47,097 - WARNING - Name contains special characters: Nyang'or, Olive Menorah
+2024-09-06 09:23:47,097 - INFO - Finished processing file_B
+2024-09-06 09:23:47,098 - INFO - Number of male students: 75
+2024-09-06 09:23:47,098 - INFO - Number of female students: 48
+2024-09-06 09:23:47,101 - INFO - CSV file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_A.csv
+2024-09-06 09:23:47,101 - INFO - TSV file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_A.tsv
+2024-09-06 09:23:47,102 - INFO - JSON file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_A.json
+2024-09-06 09:23:47,102 - INFO - CSV file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_B.csv
+2024-09-06 09:23:47,102 - INFO - TSV file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_B.tsv
+2024-09-06 09:23:47,103 - INFO - JSON file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_B.json
+2024-09-06 09:23:47,103 - INFO - Saving male students list: Processed_File_A_Male_Students
+2024-09-06 09:23:47,104 - INFO - CSV file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_A_Male_Students.csv
+2024-09-06 09:23:47,105 - INFO - TSV file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_A_Male_Students.tsv
+2024-09-06 09:23:47,105 - INFO - JSON file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_A_Male_Students.json
+2024-09-06 09:23:47,106 - INFO - Saving female students list: Processed_File_A_Female_Students
+2024-09-06 09:23:47,107 - INFO - CSV file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_A_Female_Students.csv
+2024-09-06 09:23:47,107 - INFO - TSV file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_A_Female_Students.tsv
+2024-09-06 09:23:47,107 - INFO - JSON file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_A_Female_Students.json
+2024-09-06 09:23:47,108 - INFO - Saving male students list: Processed_File_B_Male_Students
+2024-09-06 09:23:47,108 - INFO - CSV file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_B_Male_Students.csv
+2024-09-06 09:23:47,109 - INFO - TSV file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_B_Male_Students.tsv
+2024-09-06 09:23:47,109 - INFO - JSON file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_B_Male_Students.json
+2024-09-06 09:23:47,109 - INFO - Saving female students list: Processed_File_B_Female_Students
+2024-09-06 09:23:47,110 - INFO - CSV file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_B_Female_Students.csv
+2024-09-06 09:23:47,110 - INFO - TSV file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_B_Female_Students.tsv
+2024-09-06 09:23:47,110 - INFO - JSON file saved: /Users/caldwellwachira/PycharmProjects/codeLabs_1/ComputerGraphics/Processed_File_B_Female_Students.json

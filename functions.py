@@ -6,6 +6,9 @@ import  re
 import logging
 
 
+
+
+
 def generate_email(name):
     try:
         # Split the name (format: "Last Name, First Name Middle Names")
